@@ -19,7 +19,6 @@ class Customer:
 
 
 num_customers = int(input("Masukkan jumlah pelanggan yang belanja: "))
-customers = []
 
 if num_customers >= 5:
     for i in range(num_customers):
